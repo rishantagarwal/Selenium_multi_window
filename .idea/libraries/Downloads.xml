@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Downloads">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/apache-ant-1.9.3-bin/apache-ant-1.9.3/manual/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>
